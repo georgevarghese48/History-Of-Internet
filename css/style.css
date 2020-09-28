@@ -1,3 +1,7 @@
 .content {
     text-align: center;
 }
+
+.content p {
+    margin: 35px;
+}
