@@ -11,13 +11,16 @@
 }
 
 #image {
+    text-align: center;
     display: block;
-    margin-left: 50px;
-    width: 50%;
     padding-bottom: 50px;
     padding-top: 20px;
 }
 
 body {
     background-color: royalblue;
+}
+
+#footer {
+    text-align: center;
 }
