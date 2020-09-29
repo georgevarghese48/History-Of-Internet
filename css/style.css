@@ -1,6 +1,8 @@
 .net-content {
     text-align: center;
 }
+
 .net-content p {
     margin: 35px;
+    width: 75%;
 }
