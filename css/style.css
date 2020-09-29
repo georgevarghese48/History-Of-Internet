@@ -1,10 +1,8 @@
 #header {
     background-color: #66CCFF;
-}
-
-#header h2{
     text-align: center;
 }
+
 #container {
     background-color: white;
     width: 800px;
