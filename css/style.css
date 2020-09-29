@@ -1,8 +1,13 @@
-.net-content {
-    text-align: center;
+#header {
+    background-color: #66CCFF;
 }
 
-.net-content p {
-    margin-left: 35px;
-    width: 75%;
+#header h2{
+    text-align: center;
+}
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
